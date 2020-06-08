@@ -7,6 +7,7 @@ tags: [programming]
 image: assets/images/1-0.jpg
 featured: true
 hidden: true
+rating: 4.5
 beforetoc: "COVID-19 is a disease caused by a new strain of coronavirus. 'CO' stands for corona, 'VI' for virus, and 'D' for disease. Formerly, this disease was referred to as '2019 novel coronavirus' or '2019-nCoV'."
 toc: true
 ---
