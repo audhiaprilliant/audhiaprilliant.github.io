@@ -32,4 +32,5 @@ The problem about Subduction-collates between plates-moves nearby impacts the ea
 
 Faldi added that the purpose of this data analysis can solve a problem that has been formulated correctly, clearly, and has a positive impact. (NR)
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+### Sources
+<a target="_blank" href="https://ipb.ac.id/news/index/2019/11/process-big-data-become-useful-information-three-ipb-university-teams-win-national-data-summit/342f5de63f3c2c35af432f32ce959cd8" class="btn btn-danger">IPB University</a> <a target="_blank" href="http://fmipa.ipb.ac.id/national-data-summit-digital-business-ecosystem-research-center-telkom-university/" class="btn btn-warning">FMIPA IPB University</a> <a target="_blank" href="https://kumparan.com/news-release-ipb/olah-big-data-tiga-tim-ipb-university-juarai-national-data-summit-1sIpNg3oIbM" class="btn btn-primary">Kumparan</a> <a target="_blank" href="https://bogorupdate.com/2019/11/24/olah-big-data-jadi-informasi-berguna-ipb-university-juarai-national-data-summit/" class="btn btn-success">Bogor Update</a>
