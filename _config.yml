@@ -4,7 +4,7 @@ title: "Audhi Aprilliant"
 description: "Data and programming enthusiasm"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+baseurl: 
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -16,7 +16,8 @@ authors:
   audhi:
     name: Audhi Aprilliant
     display_name: Audhi Aprilliant
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/avatar.png'
+    gravatar: 1cbf9cbf132902d73193e26ba450cbd0
     email: audhiaprilliant@gmail.com
     web: https://audhiaprilliant.github.io/
     twitter: https://twitter.com/audhiaprilliant
