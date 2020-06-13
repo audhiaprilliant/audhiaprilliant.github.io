@@ -8,7 +8,9 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Hello, my name is Audhi Aprilliant. I'm a Statistics student of IPB University. I am interested in data analysis, data science, machine learning, data visualization, and programming. For daily activities, I usually use Linux LTS 18.04 as my primary Operating System. I understand with several programming language, such as R and Python</p>
+<p>Hello, my name is Audhi Aprilliant. I'm a Statistics student of IPB University. I am interested in data analysis, data science, machine learning, data visualization, and programming. For daily activities, I usually use Linux LTS 18.04 as my primary Operating System. I understand several programming language, such as R and Python.</p>
+
+<p>Topic for my undergraduate thesis is the combination between <i>natural language processing (NLP)</i> and <i>financial analysis</i>. You can easily find my paper on internet: <i><b>"Natural Language-based Financial Forecasting of the Return of Jakarta Composite Index Using Support Vector Regression on Financial News Pages"</b></i></p>
 
 <p class="mb-5" style="text-align:center;"><img src="{{site.baseurl}}/assets/images/about.gif" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
