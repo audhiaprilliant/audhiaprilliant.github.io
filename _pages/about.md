@@ -12,7 +12,7 @@ comments: true
 
 <p>Topic for my undergraduate thesis is the combination between <i>natural language processing (NLP)</i> and <i>financial analysis</i>. You can easily find my paper on internet: <i><b>"Natural Language-based Financial Forecasting of the Return of Jakarta Composite Index Using Support Vector Regression on Financial News Pages"</b></i></p>
 
-<p class="mb-5" style="text-align:center;"><img src="{{site.baseurl}}/assets/images/about.gif" alt="jekyll template mediumish" /></p>
+<p class="mb-5" style="text-align:center;"><img src="{{site.baseurl}}/assets/images/about.gif" alt="earth rotating" /></p>
 <h4>Documentation</h4>
 
 <p>You can read my CV <a href="{{site.baseurl}}/assets/docs/Curriculum Vitae - Audhi Aprilliant.pdf">here</a>.</p>

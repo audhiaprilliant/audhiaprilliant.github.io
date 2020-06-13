@@ -16,5 +16,7 @@ Meanwhile, the Danakirti team got the honourable mention medals in the ICT Busin
 
 And in Data Mining division, the IPB University team also won the honourable mention medals with a team consisting of Willyam, Faldi Sulistiawan, and Audhi Aprilliant with supervisor lecturer Dr. Imas S Sitanggang. They carried out the Identification of Potential Areas and Estimation of Wind Power Potential in East Nusa Tenggara (NTT) using the Deep Neural Network. (dh / zul)
 
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/hMADFW1eO-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 ### Sources
 <a target="_blank" href="https://ipb.ac.id/news/index/2019/10/tiga-tim-mahasiswa-ipb-university-raih-juara-di-gemastik-xii-2019/db00044cce70b0902702c743437f610d" class="btn btn-danger">IPB University</a> <a target="_blank" href="http://www.radarbogor.id/2019/10/30/tiga-tim-mahasiswa-ipb-university-raih-juara-di-gemastik-xii-2019/" class="btn btn-warning">Radar Bogor</a>
