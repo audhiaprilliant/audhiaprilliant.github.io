@@ -42,7 +42,7 @@ After configuration, you’ll need to initialize the database before you can run
 airflow initdb
 ```
 
-### It’s a DAG definition file
+### It’s a DAG Definition File
 One thing to wrap your head around (it may not be very intuitive for everyone at first) is that this Airflow Python script is really just a configuration file specifying the DAG’s structure as code. The actual tasks defined here will run in a different context from the context of this script. Different tasks run on different workers at different points in time, which means that this script cannot be used to cross communicate between tasks. Note that for this purpose we have a more advanced feature called `XCom`.
 
 People sometimes think of the DAG definition file as a place where they can do some actual data processing - that is not the case at all! The script’s purpose is to define a DAG object. It needs to evaluate quickly (seconds, not minutes) since the scheduler will execute it periodically to reflect the changes if any.
@@ -55,8 +55,9 @@ In Airflow all workflows are DAGs. A Dag consists of operators. An operator defi
 - `MySqlOperator`, `SqliteOperator`, `PostgresOperator`, `MsSqlOperator`, `OracleOperator`, `JdbcOperator`, etc. - executes a SQL command
 - `Sensor` - waits for a certain time, file, database row, S3 key, etc
 
-### How to start
-```python3
+### How to Run Airflow and Scheduler
+It's pretty easy to run the Apache Airflow and Scheduler. First, open your terminal and follow below commands!
+```bash
 # airflow needs a home, ~/airflow is the default,
 # but you can lay foundation somewhere else if you prefer
 # (optional)
