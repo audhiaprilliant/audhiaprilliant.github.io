@@ -5,7 +5,7 @@ author: audhi
 categories: [ github, python ]
 tags: [programming]
 image: assets/images/2-0.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "My review of Code Chef as a competitive programming platform"
 featured: true
 hidden: true
 rating: 4.5
