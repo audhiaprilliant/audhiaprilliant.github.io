@@ -15,7 +15,7 @@ comments: true
 <p class="mb-5" style="text-align:center;"><img src="{{site.baseurl}}/assets/images/about.gif" alt="earth rotating" /></p>
 <h4>Documentation</h4>
 
-<p>You can read my CV <a href="{{site.baseurl}}/assets/docs/Curriculum Vitae - Audhi Aprilliant.pdf">here</a>.</p>
+<p>You can read my CV <a href="{{site.baseurl}}/assets/docs/Audhi Aprilliant - March 2020.pdf">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
