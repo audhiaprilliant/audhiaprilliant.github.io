@@ -11,7 +11,7 @@ image: assets/images/12-0.jpg
 Airflow is a platform to programmatically author, schedule, and monitor workflows. Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes our tasks on an array of workers while following the specified dependencies. Basically, it help us to automate the script. Meanwhile, the COVID‑19 pandemic, also known as the coronavirus pandemic, is an ongoing global pandemic of coronavirus disease 2019 (COVID‑19), caused by severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2). The outbreak was first identified in Wuhan, China, in December 2019. We need to monitor the data in Indonesia, daily. Further, Kompas news is one of the platform which updates the data in dashboard at [__here__]('https://www.kompas.com/covid-19')
 
 ### Prerequisites
-Before talking more intensively, please read and setup following tools properly
+Before talking more intensively, please read and set up following tools properly
 1. Install Apache Airflow [__read here__]('https://audhiaprilliant.github.io/airflow-documentation/')
 2. Install the module dependencies
    - __requests__ for web scraping
@@ -26,8 +26,8 @@ Before talking more intensively, please read and setup following tools properly
    - Telegram chat ID [__read here__]('https://www.freecodecamp.org/news/telegram-push-notifications-58477e71b2c2/')
 4. Email
    - Apps password that contains 16 digits of characters [__read here__]('https://helptechcommunity.wordpress.com/2020/04/04/airflow-email-configuration/')
-   - Setup `airflow.cfg` file to synchronize with our email
-5. Setup file and directory in Airflow
+   - set up `airflow.cfg` file to synchronize with our email
+5. set up file and directory in Airflow
    - Save the DAG Python file in directory `dags`
    - Save Telegram chat ID in directory `config`
    - Create directory `data/covid19` in Airflow to store `summary_covid19.txt` and `daily_update_covid.csv`. Please [__click here__]({{ baseurl }}/assets/images/12-4.png) to look up the detail of recommended directory.
@@ -186,7 +186,7 @@ def provinces_save_csv(**context):
     return(notif)
 ```
 ##### 8 Define DAG and set schedule
-Before defining the DAG, we must setup default argument for tasks.
+Before defining the DAG, we must set up default argument for tasks.
    - `owner` refers to the creator or owner. We can put our name or division
    - `depends_on_past` is assigned to `True` if the next task will be running when previous one is success and vice versa
    - `start_date` defines the start date of our airflow job
@@ -289,7 +289,7 @@ finish_start = BashOperator(
     dag = dag
 )
 ```
-##### 10 Setup task dependencies
+##### 10 set up task dependencies
 ```python
 # Set up the dependencies
 task_start >> summary_scraping >> summary_save >> provinces_scraping
