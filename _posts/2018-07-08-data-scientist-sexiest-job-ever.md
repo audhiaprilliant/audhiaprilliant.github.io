@@ -2,7 +2,7 @@
 layout: post
 title:  "Data Scientist, the Sexiest Job Ever"
 author: audhi
-categories: [ agriculture, press release ]
+categories: [ article ]
 tags: [article]
 image: assets/images/15-0.jpg
 ---
