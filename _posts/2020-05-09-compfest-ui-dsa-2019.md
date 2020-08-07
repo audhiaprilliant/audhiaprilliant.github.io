@@ -35,7 +35,7 @@ There are two datasets, for location and profile of employees
    - divisi : the division where the employee works at TokoLapak
    - umur : employee age
 
-<p>For the questions and also answers (Python and R language), you can directly head over to <a href="https://github.com/audhiaprilliant/data-science-academy-2019">Github repository</a>!</p>
+<p>For the questions and also answers (Python and R language), you can directly head over to my <a href="https://github.com/audhiaprilliant/data-science-academy-2019">Github repository</a>!</p>
 
 ### Sources
 <a target="_blank" href="https://compfest.id/" class="btn btn-danger">COMPFEST UI</a>
