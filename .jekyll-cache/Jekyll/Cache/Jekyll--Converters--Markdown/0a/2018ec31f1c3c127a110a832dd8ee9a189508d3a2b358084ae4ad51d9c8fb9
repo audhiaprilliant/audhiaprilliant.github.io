@@ -1,0 +1,26 @@
+I"*<h3 id="overview">Overview</h3>
+<p>CodeChef was created as a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests. At CodeChef, they work hard to revive the geek in you by hosting a programming contest at the start of the month and two smaller programming challenges at the middle and end of the month.</p>
+
+<p>They also aim to have training sessions and discussions related to algorithms, binary search, technicalities like array size and the likes. Apart from providing a platform for programming competitions, CodeChef also has various algorithm tutorials and forum discussions to help those who are new to the world of computer programming.</p>
+
+<h3 id="dsa-learning-series---complexity-analysisbasics-warm-up">DSA Learning Series - Complexity Analysis+Basics Warm Up</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Life, the Universe, and Everything <a href="https://www.codechef.com/LRNDSA01/problems/TEST">check</a></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Reverse The Number <a href="https://www.codechef.com/LRNDSA01/problems/FLOW007">check</a></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Lapindromes <a href="https://www.codechef.com/LRNDSA01/problems/LAPIN">check</a></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Smart Phone <a href="https://www.codechef.com/LRNDSA01/problems/ZCO14003">check</a></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Carvans <a href="https://www.codechef.com/LRNDSA01/problems/CARVANS">check</a></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Factorial <a href="https://www.codechef.com/LRNDSA01/problems/FCTRL">check</a></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Coin Flip <a href="https://www.codechef.com/LRNDSA01/problems/CONFLIP">check</a></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Laddu <a href="https://www.codechef.com/LRNDSA01/problems/LADDU">check</a></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Multiple of 3 <a href="https://www.codechef.com/LRNDSA01/problems/MULTHREE">check</a></li>
+</ul>
+
+<h3 id="beginner">Beginner</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Coronavirus Spread <a href="https://www.codechef.com/problems/COVID19">check</a></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Chef and Recipe <a href="https://www.codechef.com/problems/CHEFRECP">check</a></li>
+</ul>
+
+<p>Head over to my <a href="https://github.com/audhiaprilliant/Code-Chef">Github repository</a>!</p>
+:ET

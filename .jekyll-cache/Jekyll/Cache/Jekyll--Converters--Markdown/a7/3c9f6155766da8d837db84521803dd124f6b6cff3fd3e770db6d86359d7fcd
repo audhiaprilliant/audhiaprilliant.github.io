@@ -1,0 +1,38 @@
+I"�<h3 id="overview">Overview</h3>
+<p>Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python’s design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.</p>
+
+<h3 id="library">Library</h3>
+<p>Python’s large standard library, commonly cited as one of its greatest strengths, provides tools suited to many tasks. For Internet-facing applications, many standard formats and protocols such as MIME and HTTP are supported. It includes modules for creating graphical user interfaces, connecting to relational databases, generating pseudorandom numbers, arithmetic with arbitrary-precision decimals, manipulating regular expressions, and unit testing.</p>
+
+<p>As of November 2019, the Python Package Index (PyPI), the official repository for third-party Python software, contains over 200,000 packages with a wide range of functionality, including:</p>
+<ul>
+  <li>Automation</li>
+  <li>Data analytics</li>
+  <li>Databases</li>
+  <li>Documentation</li>
+  <li>Graphical user interfaces</li>
+  <li>Image processing</li>
+  <li>Machine learning</li>
+  <li>Mobile App</li>
+  <li>Multimedia</li>
+  <li>Networking</li>
+  <li>Scientific computing</li>
+  <li>System administration</li>
+  <li>Test frameworks</li>
+  <li>Text processing</li>
+  <li>Web frameworks</li>
+  <li>Web scraping</li>
+</ul>
+
+<h3 id="personal-projects">Personal Projects</h3>
+<p>So, the conclusion is Python can help our work properly (it depends on what your work is). In my life, I have been using Python to automate tasks or something. These are few of my work which is helped by Python</p>
+<ul>
+  <li>To get metabolites using web scraping on KNApSAcK Family site <a href="https://github.com/audhiaprilliant/Automation-and-Web-Scraping-Using-Python-and-R/tree/master/Python/knapsackfamily"><strong>read more</strong></a></li>
+  <li>To get the profile and the items from seller on Shopee site using Selenium <a href="https://github.com/audhiaprilliant/Automation-and-Web-Scraping-Using-Python-and-R/tree/master/Python/shopee-seller-scraper"><strong>read more</strong></a></li>
+  <li>To input name on certificate automatically and also send it to the email in dataset using SMTP <a href="https://github.com/audhiaprilliant/Automation-and-Web-Scraping-Using-Python-and-R/tree/master/Python/write-and-send-certificates"><strong>read more</strong></a></li>
+  <li>To scrape title and content of news in Detik, Kompas, and Okezone using R <a href="https://github.com/audhiaprilliant/Automation-and-Web-Scraping-Using-Python-and-R/tree/master/R/Financial%20News"><strong>read more</strong></a></li>
+</ul>
+
+<h3 id="sources">Sources</h3>
+<p><a target="_blank" href="https://en.wikipedia.org/wiki/Python_(programming_language)" class="btn btn-danger">Wikipedia</a></p>
+:ET
