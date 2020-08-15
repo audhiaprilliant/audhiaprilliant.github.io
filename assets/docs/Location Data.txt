@@ -1,0 +1,2 @@
+place,address,lat,long,supervisor,total,student1,student2,student3
+IRIS Worldwide,Generali Tower Gran Rubina Business Park 8th Floor Jalan HR Rasuna Said Jakarta 12940,-6.2179565,106.8342927,Dr Agus M Soleh,2,Audhi Aprilliant,Dicky Okada Ambarita,
