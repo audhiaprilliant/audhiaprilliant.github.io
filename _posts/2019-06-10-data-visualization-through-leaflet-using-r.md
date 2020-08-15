@@ -66,7 +66,7 @@ addSearchFeatures(
                                   hideMarkerOnCollapse = TRUE))
 ```
 
-Okay then, we add measure button and highlight for general info or title. For the measure button, as its name, it will show us the distance between two points or more. We can estimate the distance between two citis using this feature. If we meet the zigzag route, we can make it like polygon-shape. The unit of measurement must be set depending on our needs, for instance in meters. Lastly, to show up our general information, it's good to add like infobox.
+Okay then, we add measure button and highlight for general info or title. For the measure button, as its name, it will show us the distance between two points or more. We can estimate the distance between two cities using this feature. If we meet the zigzag route, we can make it like polygon-shape. The unit of measurement must be set depending on our needs, for instance in meters. Lastly, to show up our general information, it's good to add like infobox.
 ```r
 addMeasure(
     position = 'bottomleft',
