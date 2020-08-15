@@ -3,7 +3,7 @@ layout: post
 title:  "Correspondence Analysis of Badan Ekonomi Kreatif Indonesia 2016"
 author: audhi
 categories: [ data visualization,rprogramming ]
-tags: [article]
+tags: [data mining]
 image: assets/images/14-0.jpg
 ---
 
