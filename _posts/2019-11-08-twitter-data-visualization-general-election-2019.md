@@ -3,7 +3,7 @@ layout: post
 title:  "Twitter Data Visualization (case study: Indonesia General Election 2019)"
 author: audhi
 categories: [ data visualization,rprogramming ]
-tags: [article]
+tags: [data mining]
 image: assets/images/13-0.jpg
 ---
 
