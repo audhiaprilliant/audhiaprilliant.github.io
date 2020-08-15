@@ -25,5 +25,7 @@ Scopes of the study is that the data used is a secondary data on the distributio
 
 <p>Head over to my <a href="https://github.com/audhiaprilliant/Correspondence-Analysis-of-Badan-Ekonomi-Kreatif-2016">Github repository</a>!</p>
 
+<iframe src="{{site.baseurl}}/assets/docs/Correspondence Analysis.pdf" style="width: 100%; height: 680px;" frameBorder="0"></iframe>
+
 ### Sources
 <a target="_blank" href="https://jurnal.kemendagri.go.id/index.php/jbp/article/view/565" class="btn btn-danger">Pahlevi AS</a>
