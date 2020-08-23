@@ -9,20 +9,10 @@ image: assets/images/13-0.jpg
 
 ### Overview
 For this project, we use primary data of Twitter by crawling on 28th - 29th of May 2019. Further, the data is in csv format (comma delimited). It refers into two topics, the data of Joko Widodo which contains the keyword "Joko Widodo" and the other one is the data of Prabowo Subianto that has the keyword "Prabowo Subianto". These include several variables and information in order to determine user sentiment. Actually, the data has 16 variables or attributes and more than 1000 observations (for both data). Some variables are listed in Table 1.
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/13-13.jpg" width="750" />
+</p>
 
-| Variables      | Type       | Information                                                             |
-| -------------- | ---------- | ----------------------------------------------------------------------- |
-| Text           | Character  | Tweet of user in Twitter                                                |
-| Create         | Date       | Date and time that tweet is made                                        |
-| Truncated      | Logical    | Value 1 if the tweet is truncated and 0 if the tweet is not truncated   |
-| ID             | Factor     | User ID                                                                 |
-| StatusSource   | Factor     | URL to access the tweet online                                          |
-| ScreenName     | Factor     | Username of user                                                        |
-| RetweetCount   | Number     | Number of retweet                                                       |
-| IsRetweet      | Logical    | The value 1 if user's tweet is the retweet of other user and vice versa |
-| Retweet        | Numeric    | The value 1 if other user retweet user's tweet and vice versa           |
-
-<br>
 ### Data Exploration
 Data exploration aims to get any information and insight from Twitter data. It should be noted that the data had been conducted text pre-processing. Exploration is carried out for variables which are considered quite interesting to be discussed. For instance, the variable of `Created`
 <p align="center">
