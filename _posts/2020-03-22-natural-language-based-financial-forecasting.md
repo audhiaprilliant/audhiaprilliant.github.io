@@ -22,5 +22,8 @@ One of the challenges in NLFF is sentiment analysis, that is about how to extrac
 
 <p>You can directly head over to my <a href="https://github.com/audhiaprilliant/Natural-Language-based-Financial-Forecasting">Github repository</a>!</p>
 
+Luckily, I did a lot of exploration in this topic for my last year research in Department of Statistics, IPB University. Let's check this out!
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/fpRe9tLZLiw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 ### Sources
 <a target="_blank" href="https://scholar.ui.ac.id/en/publications/stock-price-prediction-using-linear-regression-based-on-sentiment" class="btn btn-danger">Chakra and Trisedya</a> <a target="_blank" href="https://dl.acm.org/doi/10.1016/j.eswa.2014.06.009" class="btn btn-warning">Nassirtoussi et al</a> <a target="_blank" href="https://www.nurandi.id/blog/katadasar-stemming-bahasa-indonesia-dengan-r/" class="btn btn-primary">Saputro</a> <a target="_blank" href="https://dl.acm.org/doi/10.1007/s10462-017-9588-9" class="btn btn-success">Xing et al</a>
