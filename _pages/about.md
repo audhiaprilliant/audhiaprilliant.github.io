@@ -54,7 +54,7 @@ comments: true
 <hr>
 <p class="mb-5" style="text-align:center;"><img align="center" alt="audhiaprilliant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=audhiaprilliant&show_icons=true&hide_border=true" /></p>
 
-<h4>Documentation</h4>
+<h4>Curriculum Vitae</h4>
 
 <p>You can read my CV <a href="{{site.baseurl}}/assets/docs/Audhi Aprilliant - March 2020.pdf">here</a>.</p>
 
