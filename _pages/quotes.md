@@ -9,12 +9,28 @@ comments: false
 <div class="col-md-8 pr-5">
 
 <!------------------- QUOTES ------------------->
+<!-- Fourth quote -->
+<figure class="quote">
+  <blockquote>
+    Instead of trying to use your technology and expertise to make a better product for your users’ standard behavior, experiment with inviting the users to change their behavior to make the product work dramatically better
+  </blockquote>
+  <figcaption>
+    &mdash;  Seth Godin, <cite>Purple Cow: Transform Your Business by Being Remarkable</cite>  </figcaption>
+</figure>
+
+<!-- Fourth quote -->
+<figure class="quote">
+  <blockquote>
+    七転び八起き
+  </blockquote>
+  <figcaption>
+    &mdash;  Japanese Proverb<cite></cite>  </figcaption>
+</figure>
+
 <!-- Second quote -->
 <figure class="quote">
   <blockquote>
-    You have brains in your head.<br>
-		You have feet in your shoes.<br>
-		You can steer yourself any direction you choose.
+    You have brains in your head.<br>You have feet in your shoes.<br>You can steer yourself any direction you choose.
   </blockquote>
   <figcaption>
     &mdash;  Dr. Seuss, <cite>Oh, the Places You'll Go!</cite>  </figcaption>
