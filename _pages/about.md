@@ -56,7 +56,7 @@ comments: true
 
 <h4>Curriculum Vitae</h4>
 
-<p>You can read my CV <a href="{{site.baseurl}}/assets/docs/Audhi Aprilliant - March 2020.pdf">here</a>.</p>
+<p>You can read my CV (March)<a href="{{site.baseurl}}/assets/docs/Audhi Aprilliant - March 2020.pdf">here</a>. For the latest version, please <a href="mailto:audhiaprilliant@gmail.com">email me</a></p>
 
 <h4>Questions or bug reports?</h4>
 
