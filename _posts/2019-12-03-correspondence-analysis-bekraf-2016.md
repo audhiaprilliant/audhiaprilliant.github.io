@@ -23,7 +23,7 @@ Benefits of the study are: (1) To get a snapshot of the development of the creat
 ### Scopes
 Scopes of the study is that the data used is a secondary data on the distribution of the creative industry sub-sector in Indonesia in 2016 downloaded from the official website of the Badan Ekonomi Kreatif Indonesia.
 
-<p>Head over to my <a href="https://github.com/audhiaprilliant/Correspondence-Analysis-of-Badan-Ekonomi-Kreatif-2016">Github repository</a>!</p>
+<p>Head over to my <a href="https://github.com/audhiaprilliant/Multivariate-Analysis/tree/master/Correspondence%20Analysis%20of%20Badan%20Ekonomi%20Kreatif%202016">Github repository</a>!</p>
 
 <iframe src="{{site.baseurl}}/assets/docs/Correspondence Analysis.pdf" style="width: 100%; height: 680px;" frameBorder="0"></iframe>
 
