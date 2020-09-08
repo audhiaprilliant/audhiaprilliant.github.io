@@ -9,6 +9,15 @@ comments: false
 <div class="col-md-8 pr-5">
 
 <!------------------- QUOTES ------------------->
+<!-- Fifth quote -->
+<figure class="quote">
+  <blockquote>
+    So which of the favors of your Lord would you deny?
+  </blockquote>
+  <figcaption>
+    &mdash;  Quran, <cite>Ar Rahman (QS 55:16)</cite>  </figcaption>
+</figure>
+
 <!-- Fourth quote -->
 <figure class="quote">
   <blockquote>
@@ -18,7 +27,7 @@ comments: false
     &mdash;  Seth Godin, <cite>Purple Cow: Transform Your Business by Being Remarkable</cite>  </figcaption>
 </figure>
 
-<!-- Fourth quote -->
+<!-- Third quote -->
 <figure class="quote">
   <blockquote>
     七転び八起き
