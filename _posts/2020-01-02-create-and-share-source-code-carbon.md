@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Create and Share Source Code Using Carbon"
+title:  "Create and Share Beautiful Source Code Using Carbon"
 author: audhi
 categories: [ article ]
 tags: [article]
