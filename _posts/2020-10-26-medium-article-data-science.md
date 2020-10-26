@@ -51,4 +51,4 @@ Medium is a one of a good platform to write and share your article over the worl
 ----------------------------------------------------------------
 
 
-<p>Head over to my <a href="https://github.com/audhiaprilliant/Code-Chef">Github repository</a>!</p>
+<p>Head over to my <a href="https://medium.com/@audhiaprilliant">Medium profile</a>!</p>
