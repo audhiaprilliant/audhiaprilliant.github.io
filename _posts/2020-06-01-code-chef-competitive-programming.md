@@ -8,7 +8,6 @@ image: assets/images/2-0.jpg
 description: "My review of Code Chef as a competitive programming platform"
 featured: false
 hidden: false
-rating: 4.5
 ---
 
 ### Overview
