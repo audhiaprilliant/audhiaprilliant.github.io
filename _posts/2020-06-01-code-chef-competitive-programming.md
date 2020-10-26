@@ -6,7 +6,7 @@ categories: [ github, python ]
 tags: [programming]
 image: assets/images/2-0.jpg
 description: "My review of Code Chef as a competitive programming platform"
-featured: true
+featured: false
 hidden: true
 rating: 4.5
 ---
