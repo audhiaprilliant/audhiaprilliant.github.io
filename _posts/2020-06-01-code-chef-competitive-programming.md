@@ -7,7 +7,7 @@ tags: [programming]
 image: assets/images/2-0.jpg
 description: "My review of Code Chef as a competitive programming platform"
 featured: false
-hidden: true
+hidden: false
 rating: 4.5
 ---
 
