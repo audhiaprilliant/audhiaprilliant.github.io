@@ -23,7 +23,7 @@ comments: true
 <a href="http://codechef.com/users/audhi"><img align="left" alt="audhiaprilliant | Code Chef" width="22px" hspace="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" /></a>
 <a href="https://www.medium.com/@audhiaprilliant/"><img align="left" alt="audhiaprilliant | Medium" width="22px" hspace="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 <a href="https://twitter.com/audhiaprilliant"><img align="left" alt="audhiaprilliant | Twitter" width="22px" hspace="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/audhiaprilliant/"><img align="left" alt="audhiaprilliant | LinkedIn" width="22px" hspace="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/audhiaprilliant/"><img align="left" alt="audhiaprilliant | LinkedIn" width="22px" hspace="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></p>
 <p><br /></p>
 <h4 id="languages-and-tools-">Languages and Tools:</h4>
 <p><a href="http://audhiaprilliant.github.io/"><img align="left" alt="Python" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
