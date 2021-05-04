@@ -28,7 +28,7 @@ comments: true
 <h4 id="languages-and-tools-">Languages and Tools:</h4>
 <p><a href="http://audhiaprilliant.github.io/"><img align="left" alt="Python" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
 <a href="http://audhiaprilliant.github.io/"><img align="left" alt="R" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></a>
-<a href="http://audhiaprilliant.github.io/"><img align="left" alt="Microsoft Excel" width="26px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282018%E2%80%93present%29.svg.png" /></a>
+<a href="http://audhiaprilliant.github.io/"><img align="left" alt="Microsoft Excel" width="26px" hspace="10" src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" /></a>
 <a href="http://audhiaprilliant.github.io/"><img align="left" alt="MySQL" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
 <a href="http://audhiaprilliant.github.io/"><img align="left" alt="PostgreSQL" width="26px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>
 <a href="http://audhiaprilliant.github.io/"><img align="left" alt="Tableau" width="26px" hspace="10" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" /></a>
