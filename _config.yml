@@ -1,7 +1,7 @@
 # Site
 name: "Audhi Aprilliant"
 title: "Audhi Aprilliant"
-description: "Data science and Python programming enthusiast"
+description: "Data Scientist and Tech Writer"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
@@ -21,7 +21,7 @@ authors:
     email: audhiaprilliant@gmail.com
     web: https://audhiaprilliant.github.io/
     twitter: https://twitter.com/audhiaprilliant
-    description: "Data science, machine learning, and Python programming enthusiast. The author is a beginner in Linux"
+    description: "Data Scientist. Tech Writer. Statistics, Data Analytics, and Computer Science Enthusiast"
 
 # Plugins
 plugins:
