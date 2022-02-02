@@ -21,4 +21,4 @@ To understand the manual calculation in Genetic Algorithm, follow steps in the d
 <iframe src="{{site.baseurl}}/assets/docs/Genetic Algorithm Calculations - Github Blog.pdf" style="width: 100%; height: 480px;" frameBorder="0"></iframe><br>
 
 ### Full article
-You can read full article at [__Medium__](https://medium.com/analytics-vidhya/my-medium-articles-lets-learn-and-share-ideas-together-41447af94da1)
+You can read full article at [__Medium__](https://audhiaprilliant.medium.com/the-step-by-step-manual-calculation-of-genetic-algorithm-for-optimization-477dad521a1b)
