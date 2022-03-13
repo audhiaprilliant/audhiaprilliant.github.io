@@ -2,8 +2,8 @@
 layout: post
 title:  "BigID Professional Course"
 author: audhi
-categories: [ data privacy ]
-tags: [data mining]
+categories: [ data privacy,press release ]
+tags: [article]
 image: assets/images/29-0.jpg
 ---
 
