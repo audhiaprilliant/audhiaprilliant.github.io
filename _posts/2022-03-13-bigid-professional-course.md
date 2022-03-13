@@ -2,7 +2,7 @@
 layout: post
 title:  "BigID Professional Course"
 author: audhi
-categories: [ python,data visualization ]
+categories: [ data privacy ]
 tags: [data mining]
 image: assets/images/29-0.jpg
 ---
