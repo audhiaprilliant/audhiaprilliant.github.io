@@ -7,7 +7,7 @@ tags: [article]
 image: assets/images/30-0.jpg
 ---
 ### Overview
-In 18th April 2021, I was invited as a facilitator at biochemistry department workshop, Education and Training (EDTA). The main topic is about the implementation of Statistics in biochemistry research (mostly for the final research in undergradute program). Dr. Waras Nurcholis, S.Si., M.Si is the main speaker from Biochemistry Lecturer. He talked a lot about the fundamental theory of statistical analysis and RStudio.
+On 18th April 2021, I was invited as a facilitator at biochemistry department workshop, Education and Training (EDTA). The main topic is about the implementation of Statistics in biochemistry research (mostly for the final research in undergradute program). Dr. Waras Nurcholis, S.Si., M.Si is the main speaker from Biochemistry Lecturer. He talked a lot about the fundamental theory of statistical analysis and RStudio.
 
 For the information, there are 50 participants, mostly in third year and preparing the topic for the final research. As requested, I delivered four main topics using RStudio as focus on the best-practice implemention in real world, they are as follows.
 - Introduction to RStudio
