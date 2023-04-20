@@ -9,12 +9,11 @@ comments: true
 <div class="col-md-8 pr-5">
 
 <h5 id="hi-there-i-m-audhi-aprilliant-website-">Hi there, I&#39;m <a href="http://audhiaprilliant.github.io/">Audhi Aprilliant</a> 👋</h5>
-<h4 id="i-m-a-man-friend-and-researcher-">I&#39;m a Man, Friend, and Researcher!</h4>
 <ul>
 <li>🔭 I’m currently working on a <a href="http://audhiaprilliant.github.io/">personal project</a>!</li>
 <li>🌱 I’m currently learning Data Science and Analytics 🤣</li>
 <li>👯 I’m looking to collaborate with other content creators</li>
-<li>🥅 2020 Goals: Give impact to society</li>
+<li>🥅 2023 Goals: Give impact to society</li>
 <li>⚡ Fun fact: I love blogging, reading books, and drawing</li>
 </ul>
 <h4 id="connect-with-me-">Connect with me:</h4>
