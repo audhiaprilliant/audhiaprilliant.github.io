@@ -24,7 +24,7 @@ By reading the Jupyter Notebook, you will get several info and knowledge:
 - Standarization (min-max scaler and normalization)
 - Data exporting
 
-<p>For more detail, feel free to go over my <a href="https://github.com/audhiaprilliant/Introduction-to-Python-for-Data-Analysis">Github repository</a>!</p>
+<p>For more detail, feel free to visit my <a href="https://github.com/audhiaprilliant/Introduction-to-Python-for-Data-Analysis">Github repository</a>!</p>
 
 <iframe src="{{site.baseurl}}/assets/docs/Data Exploration - Lemonade.html" style="width: 100%; height: 680px;" frameBorder="0"></iframe>
 

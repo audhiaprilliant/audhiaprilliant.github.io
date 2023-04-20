@@ -7,68 +7,69 @@ tags: [article]
 image: assets/images/15-0.jpg
 ---
 
-Permintaan perusahaan digital di Indonesia terhadap Data Scientist meningkat tajam sejak perkembangan dunia e-commerce yang sangat pesat akhir-akhr ini. Hal ini dapat dilihat, pada tahun 2017, pemerintah Republik Indonesia melalui Menteri Komunikasi dan Informatika, Rudiantara mengumumkan bahwa Jack Ma resmi menjadi penasihat e-commerce Indonesia. Hal ini menunjukkan keseriusan pemerintah dalam mengawal dunia e-commerce. Pertengahan Maret 2018, Lazada mendapat guyuran dana sebesar Rp27 triliun oleh Alibaba. Ditambah kehadiran Lucy Peng yang merupakan salah satu dari delapan belas pendiri Alibaba kini menjabat sebagai CEO, bukan tidak mungkin Lazada akan menjelma menjadi “Alibaba”nya Indonesia di tahun-tahun mendatang.
+The demand for Data Scientists in the digital industry in Indonesia has sharply increased since the rapid growth of e-commerce in recent years. This can be observed from the announcement made by the Minister of Communication and Information Technology, Rudiantara, in 2017, that Jack Ma had officially become the e-commerce advisor for Indonesia. This demonstrates the government's commitment to oversee the e-commerce industry. In mid-March 2018, Lazada received a pouring investment of Rp27 trillion from Alibaba. With the presence of Lucy Peng, one of the eighteen founders of Alibaba, as the CEO, it is possible that Lazada will become the "Alibaba" of Indonesia in the years to come.
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/15-1.jpg" width="600" />
 </p>
 
-Data Science berhubungan sangat erat dengan Big Data, ibarat keping mata uang. Munculnya Data Science disebabkan fenomena Big Data. Lalu, apa itu Big Data dan Data Science ? Menurut Wikipedia, *Big Data is a phrase used to mean a massive volume of both structured and unstructured data that is so large it is difficult to process using traditional database and software techniques. In most enterprise scenarios the volume of data is too big or it moves too fast or it exceeds current processing capacity.*
+Data Science is closely related to Big Data, like two sides of a coin. The emergence of Data Science is a result of the Big Data phenomenon. So, what are Big Data and Data Science? According to Wikipedia, *Big Data refers to an enormous amount of both structured and unstructured data that is difficult to process using traditional database and software techniques. In most enterprise scenarios, the volume of data is too large, moves too fast, or exceeds the current processing capacity.*
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/15-2.jpg" width="600" />
 </p>
 
-Sedangkan Data Science adalah suatu ilmu yang khusus mempelajari data, khususnya data kuantitatif (data numerik), baik yang terstruktur maupun tidak terstruktur. Berbagai subjek yang dibahas dalam ilmu data meliputi semua proses data, mulai dari pengumpulan data, analisis data, pengolahan data, manajemen data, kearsipan, pengelompokan data, penyajian data, distribusi data, hingga cara mengubah data menjadi kesatuan informasi yang dapat dipahami semua orang.
+Meanwhile, Data Science is a specialized field that focuses on studying data, particularly quantitative data (numerical data), both structured and unstructured. Various subjects covered in the field of data include all data processes, ranging from data collection, data analysis, data processing, data management, archiving, data grouping, data presentation, data distribution, and how to transform data into a unified piece of information that can be understood by everyone.
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/15-3.jpg" width="350" />
 </p>
 
-Berikut adalah 8 kemampuan utama menjadi seorang Data Scientist menurut Udacity berdasarkan kebutuhan industri dalam studi kasusnya (Google, Amazon, dan IBM) :
+Here are the 8 main skills that a Data Scientist should have, according to Udacity, based on the industry needs in its case studies (Google, Amazon, and IBM):
 
-##### 1 Penggunaan software dan pemograman dasar
+##### 1 Proficiency in basic software usage and programming
 
-Untuk melakukan analisis data diperlukan minimal kemampuan penggunaan software (tools) seperti SPSS, Microsoft Excel dan SAS. Kemampuan penggunaan bahasa pemrograman untuk membantu melakukan analisis data seperti Python dan R tentunya menjadi nilai tambah yang menjadi pertimbangan industri memilih kandidat Data Scientist.
+Performing data analysis requires a minimum proficiency in software usage (tools) such as SPSS, Microsoft Excel, and SAS. The ability to use programming languages such as Python and R to assist with data analysis is certainly an added value that the industry considers when selecting a Data Scientist candidate.
 
-##### 2 Pengetahuan Statistika Dasar
+##### 2 Fundamental knowledge of statistics
 
-Pengetahuan Statistika Dasar merupakan kemampuan vital seorang Data Scientist yaitu Statistika Deskriptif, Maximum Likelihood, Statistika Matematika, dan lain-lain. Sebagaimana ilmu statistika diperlukan oleh semua industri maupun instansi untuk melakukan analisis data.
+Fundamental knowledge of statistics is a vital skill for a Data Scientist, including Descriptive Statistics, Maximum Likelihood, Mathematical Statistics, and others. As statistical knowledge is required by all industries and institutions to perform data analysis.
 
 ##### 3 Machine Learning
 
-Machine Learning adalah cabang aplikasi dari Artificial Intelligence (kecerdasan buatan) yang fokus pada pengembangan sebuah sistem yang mampu belajar “sendiri” tanpa harus berulang kali diprogram oleh manusia. Sebagai contoh: aplikasi pengenalan gambar, aplikasi asisten pribadi seperti Siri, Google, Chat Bot, pengenal sajah, mobil otonom, dan domain-domain spesifik lainnya.
+Machine Learning is a branch of Artificial Intelligence (AI) that focuses on developing a system capable of learning "on its own" without having to be repeatedly programmed by humans. Examples of this include image recognition applications, personal assistants like Siri and Google, chatbots, facial recognition, self-driving cars, and other specific domains.
 
 ##### 4 Data Mining
 
-Data Mining adalah proses yang menggunakan teknik Statistik, Matematika, kecerdasan buatan, Machine Learning untuk mengekstraksi dan mengidentifikasi informasi yang bermanfaat dan pengetahuan yang terkait dari berbagai database besar
+Data Mining is a process that utilizes techniques from statistics, mathematics, artificial intelligence, and machine learning to extract and identify useful information and relevant knowledge from various large databases.
 
-##### 5 Kalkulus dan Aljabar Linear
+##### 5 Calculus and Linear Algebra
 
-Kalkulus dan Aljabar Linear merupakan cabang pertama dari ilmu matematika. Kalkulus merupakan ilmu tentang limit. Pemahaman mengenai Fungsi, Integral, Turunan, Trigonometri dalam ilmu Kalkulus adalah kemampuan dasar seorang Data Scientist. Begitu pula pemahaman mengenai Aljabar Linear, mempunyai andil yang besar untuk melakukan perhitungan komputasi menggunakan algoritma tertentu terhadap Data.
+Calculus and Linear Algebra are the first branches of mathematical sciences. Calculus is the study of limits. Understanding of functions, integrals, derivatives, and trigonometry in Calculus is a fundamental skill for a Data Scientist. Similarly, a solid understanding of Linear Algebra plays a crucial role in performing computational calculations using certain algorithms on data.
 
-##### 6 Visualisasi data
+##### 6 Data Visualization
 
-Menurut Randy Krum di buku Cool Infographics, visualisasi data adalah bentuk visual dari angka atau jumlah. Seperti halnya grafik batang atau grafik garis. Naik turunnya grafik menunjukkan jumlah angka yang dimaksud.
+According to Randy Krum in his book "Cool Infographics," data visualization is a visual representation of numbers or quantities, such as bar charts or line graphs. The rise and fall of the graph illustrate the intended numerical values.
 
 ##### 7 Software Engineering
 
-Software Engineering termasuk bagian dari ilmu Komputer, lebih tepatnya yaitu pengembangan dan pembangunan software sistem komputer dan software aplikasi. Kemampuan software engineering diperlukan untuk membangun suatu sistem yang dapat mempermudah pekerjaan suatu perusahaan.
+Software Engineering is a field of Computer Science that focuses on the development and construction of computer software systems and applications. The ability to apply software engineering principles is essential for building a system that can streamline the operations of a company.
 
 ##### 8 Think like a profesional Data Scientist
 
-Untuk menjadi seorang Data Scientist, kandidat yang dipilih suatu perusahaan adalah kandidat yang berfikir sebagai Data Scientist. Berfikir seperti Data Scientist berarti kandidat yang dipilih merupakan pemecah masalah atau problem solver yang menggunakan metode-metode serta alasannya untuk memecahkan permasalahan perusahaan.
+To become a Data Scientist, the chosen candidate for a company should think like a Data Scientist. Thinking like a Data Scientist means being a problem solver who uses methods and reasoning to solve company problems.
 
-Data Science menjadi sangat penting bagi sebuah perusahaan untuk memprediksi banyak hal di masa depan, terkait dengan produk maupun layanan nya. Selain itu juga menjadi alat untuk menemukan solusi dan value proposition seiring dengan perubahan zaman dan teknologi. Hal ini juga diungkapkan oleh Achmad Zaky, Founder sekaligus CEO Bukalapak.com saat acara *Hypergrowth Through Data Science* di Jakarta 2017. Ia mengungkapkan bahwa profesi Data Scientist memiliki peran penting dalam mencari dan menerjemahkan data yang berguna bagi perusahaan.
+Data Science is essential for a company to predict many things in the future related to its products or services. It is also a tool to find solutions and value propositions in line with the changing times and technologies. This was also revealed by Achmad Zaky, the founder and CEO of Bukalapak.com, during the *Hypergrowth Through Data Science* event in Jakarta 2017. He emphasized that the Data Scientist profession plays an important role in finding and translating useful data for the company.
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/15-4.jpg" width="600" />
 </p>
 
-Begitu ampuhnya Data Science sampai Harvard Business Review memuat tulisan Data Scientist: The Sexiest Job of the 21st Century. Ini bukan tanpa dasar. Pada tahun 2011, McKinsey Global Institute memprediksi adanya kekurangan hampir 200 ribu ilmuwan data (Data Science) pada tahun 2018.
+The power of Data Science is so great that even Harvard Business Review published an article titled "Data Scientist: The Sexiest Job of the 21st Century". This is not without basis. In 2011, the McKinsey Global Institute predicted a shortage of nearly 200,000 data scientists by 2018.
 
-Berikut adalah fakta-fakta menarik tentang Data Scientist :
-- McKinsey Global Institute telah memprediksi bahwa pada tahun 2018, _**Amerika Serikat mungkin akan kekurangan 140.000 hingga 190.000 karyawan dengan kemampuan analisa mendalam, serta kekurangan 1,5 juta manajer dan analis yang mampu menganalisa data**_ sampai menghasilkan keputusan dari data tersebut.
-- Dalam sebuah survei yang dilakukan oleh Robert Half Technology terhadap 1.400 Chief Innovation Officer (CIO) di Amerika Serikat, _**sebanyak 53% responden menyatakan bahwa perusahaan mereka kekurangan staf yang mampu mengakses data dan menghasilkan insight dari data**_ tersebut. Ini artinya, Data Scientist sangat dibutuhkan.
-- Bersumber dari Techinasia, salah satu perusahaan penyedia transportasi online di Indonesia, menghargai _**seorang data scientist yang berpengalaman 1-4 tahun hingga Rp 30juta per bulannya**_. Tentu saja gaji ini dapat disesuaikan kembali berdasarkan kualifikasi dan pengalaman yang dimiliki Data Scientist tersebut.
-- _**Jakarta merupakan kota yang paling banyak membutuhkan data scientist**_ karena banyaknya perusahaan yang berkembang di kota ini. Munculnya banyak perusahaan startup, seperti Bukalapak, Salestock, Traveloka, Blibli, Kudo, dan lainnya juga bisa menjadi kesempatan emas bagi para data scientist untuk mengembangkan karir di bidang ini. Sayangnya, pasokan Data Scientist yang masih kurang menjadi masalah bagi sebagian perusahaan.
-- _**Tingkat kepuasan terhadap pekerjaan saintis data sangat tinggi yaitu 4.4 dari skala 5**_, artinya orang yang menekuninya sangat enjoy dengan pekerjaan
+Here are some interesting facts about Data Scientists:
+
+- The McKinsey Global Institute predicted that by 2018, "the United States could face a shortage of 140,000 to 190,000 people with deep analytical skills as well as 1.5 million managers and analysts capable of analyzing data to make effective decisions".
+- In a survey conducted by Robert Half Technology of 1,400 Chief Innovation Officers (CIOs) in the United States, "53% of respondents stated that their companies lacked the staff who could access data and generate insights from it." This means that Data Scientists are in high demand.
+- According to Techinasia, an online transportation provider in Indonesia, an experienced Data Scientist with 1-4 years of experience is valued at up to IDR 30 million per month. Of course, this salary can be adjusted based on the qualifications and experience of the Data Scientist.
+- Jakarta is the city with the highest demand for data scientists due to the large number of developing companies in the city. The emergence of many startups, such as Bukalapak, Salestock, Traveloka, Blibli, Kudo, and others, is also a golden opportunity for Data Scientists to develop their careers in this field. Unfortunately, the shortage of Data Scientists is still a problem for some companies.
+- The job satisfaction rate for Data Scientists is very high, at 4.4 out of 5, which means that those who pursue this career are very satisfied with their work.
 
 ### Sources
 <a target="_blank" href="http://jurusanku.com/data-science1/" class="btn btn-danger">Jurusanku</a> <a target="_blank" href="https://iprice.co.id/trend/insights/kilas-balik-e-commerce-indonesia-2017/" class="btn btn-warning">IPrice</a> <a target="_blank" href="https://pintaria.com/blog/apa-itu-data-science-yuk-kenalan-dengan-data-analyst-dan-big-data" class="btn btn-primary">Pintaria</a> <a target="_blank" href="https://www.liputan6.com/bisnis/read/3154593/data-scientist-jenis-profesi-yang-banyak-dicari-di-masa-depan" class="btn btn-success">Liputan6</a> <a target="_blank" href="https://www.merdeka.com/teknologi/profesi-data-scientist-kini-makin-diburu-perusahaan.html" class="btn btn-info">Merdeka</a> <a target="_blank" href="https://www.restuhaqza.com/2017/10/data-scientist-profesi-paling-menarik.html" class="btn btn-secondary">Restu Haqza</a> <a target="_blank" href="https://www.trentech.id/ini-dia-9-kriteria-penting-data-scientist-yang-harus-ada-dalam-lamaran-kerja/" class="btn btn-light">Trend Tech</a>

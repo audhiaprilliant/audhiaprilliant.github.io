@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Multivariate Normal Distribution"
+title:  "Multivariate Normal Distribution: Theory and Applications"
 author: audhi
 categories: [ rprogramming ]
 tags: [data mining]
@@ -8,7 +8,8 @@ image: assets/images/24-0.jpg
 ---
 
 ### Overview
-The multivariate normal (MV-N) distribution is a multivariate generalization of the one-dimensional normal distribution. In its simplest form, which is called the "_standard_" MV-N distribution, it describes the joint distribution of a random vector whose entries are mutually independent univariate normal random variables, all having zero mean and unit variance. In its general form, it describes the joint distribution of a random vector that can be represented as a linear transformation of a standard MV-N vector (Taboga)
+The multivariate normal (MV-N) distribution is a powerful tool in multivariate statistics, providing a generalization of the one-dimensional normal distribution to higher dimensions. The "standard" MV-N distribution, which is its simplest form, describes the joint distribution of a random vector whose entries are mutually independent univariate normal random variables, each with zero mean and unit variance. The general form of the MV-N distribution describes the joint distribution of a random vector that can be represented as a linear transformation of a standard MV-N vector. This distribution has a wide range of applications in statistical inference, including hypothesis testing, estimation, and prediction (Taboga).
+
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/24-1.jpg" width="550" />
 </p>

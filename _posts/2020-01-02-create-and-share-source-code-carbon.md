@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Create and Share Beautiful Source Code Using Carbon"
+title:  "Creating and Sharing Beautiful Source Code with Carbon"
 author: audhi
 categories: [ article ]
 tags: [article]
@@ -8,7 +8,7 @@ image: assets/images/20-0.jpg
 ---
 
 ### Overview
-As Data Scientist, we usually work with programming language such as R or Python to manipulate data, build classification model, build interactive data visualization, or something else. It's good to keep our source codes in distributed version control system like Git. But can we create beautiful format of our source codes? So we can efficiently share our source codes to community or other people in social media, such as Twitter. The answer is yes, we can create and share our beautiful source codes using [**carbon**](https://carbon.now.sh/).
+As a Data Scientist, it is common to work with programming languages such as R or Python for data manipulation, building classification models, creating interactive data visualization, and more. It is important to keep our source codes in a distributed version control system like Git, but what if we want to share our code in a more aesthetically pleasing format? This is where tools like [**carbon**](https://carbon.now.sh/) come in. With carbon, we can create and share beautifully formatted source code on social media platforms such as Twitter or with the wider community.
 
 <p align="center">
 <img src="{{ site.baseurl }}/assets/images/20-1.jpg" width="500" />

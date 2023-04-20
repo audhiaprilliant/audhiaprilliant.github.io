@@ -8,31 +8,15 @@ image: assets/images/17-0.jpg
 ---
 
 ### Overview
-Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
+Python is a widely used programming language due to its interpretive nature, high-level of abstraction, and general-purpose application. It was created by Guido van Rossum and was first released in 1991. One of the unique features of Python is its design philosophy that prioritizes code readability, which is achieved through the use of significant whitespace. This approach allows developers to write clear and concise code for small to large-scale projects, making it a favorite for data scientists, web developers, and software engineers. The language constructs of Python facilitate object-oriented programming, which makes it easier to reuse code and design software systems that are scalable and maintainable. Overall, Python has proven to be a versatile programming language that can be used for various purposes, including scientific computing, web development, automation, and more.
 
 ### Library
-Python's large standard library, commonly cited as one of its greatest strengths, provides tools suited to many tasks. For Internet-facing applications, many standard formats and protocols such as MIME and HTTP are supported. It includes modules for creating graphical user interfaces, connecting to relational databases, generating pseudorandom numbers, arithmetic with arbitrary-precision decimals, manipulating regular expressions, and unit testing.
+Python's extensive standard library is often cited as one of its greatest strengths, providing programmers with a plethora of tools suited to a wide variety of tasks. Python supports many standard formats and protocols commonly used in Internet-facing applications, such as MIME and HTTP. It also includes modules for creating graphical user interfaces, connecting to relational databases, generating pseudorandom numbers, manipulating regular expressions, and performing unit testing.
 
-As of November 2019, the Python Package Index (PyPI), the official repository for third-party Python software, contains over 200,000 packages with a wide range of functionality, including:
-- Automation
-- Data analytics
-- Databases
-- Documentation
-- Graphical user interfaces
-- Image processing
-- Machine learning
-- Mobile App
-- Multimedia
-- Networking
-- Scientific computing
-- System administration
-- Test frameworks
-- Text processing
-- Web frameworks
-- Web scraping
+The Python Package Index (PyPI), the official repository for third-party Python software, contains over 200,000 packages as of November 2019. These packages provide a wide range of functionalities, including automation, data analytics, databases, documentation, graphical user interfaces, image processing, machine learning, mobile app development, multimedia, networking, scientific computing, system administration, test frameworks, text processing, web frameworks, and web scraping. With such a rich ecosystem of libraries and tools, Python remains a popular choice for a diverse range of applications and industries.
 
 ### Personal Projects
-So, the conclusion is Python can help our work properly (it depends on what your work is). In my life, I have been using Python to automate tasks or something. These are few of my work which is helped by Python
+So, the conclusion is Python can help our work properly (it depends on what your work is). In my life, I have been using Python to automate tasks or something. These are few of my works which are helped by Python
 - To get metabolites using web scraping on KNApSAcK Family site [**read more**](https://github.com/audhiaprilliant/Automation-and-Web-Scraping-Using-Python-and-R/tree/master/Python/knapsackfamily)
 - To get the profile and the items from seller on Shopee site using Selenium [**read more**](https://github.com/audhiaprilliant/Automation-and-Web-Scraping-Using-Python-and-R/tree/master/Python/shopee-seller-scraper)
 - To input name on certificate automatically and also send it to the email in dataset using SMTP [**read more**](https://github.com/audhiaprilliant/Automation-and-Web-Scraping-Using-Python-and-R/tree/master/Python/write-and-send-certificates)

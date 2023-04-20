@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CodeChef as Competitive Programming Platform"
+title:  "CodeChef: A Comprehensive Platform for Competitive Programming"
 author: audhi
 categories: [ github, python ]
 tags: [programming]
@@ -11,11 +11,9 @@ hidden: false
 ---
 
 ### Overview
-CodeChef was created as a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests. At CodeChef, they work hard to revive the geek in you by hosting a programming contest at the start of the month and two smaller programming challenges at the middle and end of the month. 
+CodeChef is a platform that aims to help programmers excel in the world of algorithms, computer programming, and programming contests. Its primary goal is to provide a platform for programming competitions, and it hosts a programming contest at the start of the month and two smaller programming challenges in the middle and at the end of the month to achieve this objective.
 
-
-They also aim to have training sessions and discussions related to algorithms, binary search, technicalities like array size and the likes. Apart from providing a platform for programming competitions, CodeChef also has various algorithm tutorials and forum discussions to help those who are new to the world of computer programming.
-
+CodeChef also offers training sessions and discussions related to algorithms, binary search, technicalities like array size, and other aspects to help individuals learn about computer programming. The platform provides algorithm tutorials and forum discussions to aid those who are new to the world of computer programming. Overall, CodeChef is an excellent resource for individuals interested in improving their programming skills and competing in programming contests.
 
 ### DSA Learning Series - Complexity Analysis+Basics Warm Up
 - [x] Life, the Universe, and Everything [check](https://www.codechef.com/LRNDSA01/problems/TEST)
@@ -28,9 +26,8 @@ They also aim to have training sessions and discussions related to algorithms, b
 - [x] Laddu [check](https://www.codechef.com/LRNDSA01/problems/LADDU)
 - [x] Multiple of 3 [check](https://www.codechef.com/LRNDSA01/problems/MULTHREE)
 
-
 ### Beginner
 - [x] Coronavirus Spread [check](https://www.codechef.com/problems/COVID19)
 - [x] Chef and Recipe [check](https://www.codechef.com/problems/CHEFRECP)
 
-<p>Head over to my <a href="https://github.com/audhiaprilliant/Code-Chef">Github repository</a>!</p>
+<p>Please visit my <a href="https://github.com/audhiaprilliant/Code-Chef">GitHub profile for access to my portfolio of coding projects</a>!</p>

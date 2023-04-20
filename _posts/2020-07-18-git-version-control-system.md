@@ -19,7 +19,7 @@ sudo apt-get install git
 ```
 
 ### Documentation for Workshop
-<p>I have created a documentation for git workshop. Feel free to download my docs <a href="{{site.baseurl}}/assets/docs/Introduction to Git.pdf">here</a>.</p>
+<p>I have authored a comprehensive documentation for a Git workshop, covering various topics and best practices. It is my pleasure to share this document with anyone interested in enhancing their Git skills <a href="{{site.baseurl}}/assets/docs/Introduction to Git.pdf">here</a>.</p>
 
 
 ### Sources

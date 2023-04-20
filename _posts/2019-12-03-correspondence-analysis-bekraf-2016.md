@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Correspondence Analysis of Badan Ekonomi Kreatif Indonesia 2016"
+title:  "Correspondence Analysis of Badan Ekonomi Kreatif Indonesia in 2016"
 author: audhi
 categories: [ data visualization,rprogramming ]
 tags: [data mining]
@@ -8,22 +8,28 @@ image: assets/images/14-0.jpg
 ---
 
 ### Background
-According to Pahlevi (2017), creative industry is defined as a system of human activities, both groups and individuals related to the creation, production, distribution, exchange and consumption of goods and services of cultural, artistic, aesthetic, intellectual, and emotional value. Further, creative industry is an industry that produces tangible and intangible output that have economic value through the exploration of cultural values ​​and the production of science-based goods and services, both traditional and modern products.
+The creative industry, as defined by Pahlevi (2017), encompasses a diverse range of human activities involving the creation, production, distribution, exchange, and consumption of goods and services with cultural, artistic, aesthetic, intellectual, and emotional value. This industry produces both tangible and intangible outputs that hold economic value through the exploration of cultural values and the production of science-based goods and services, including traditional and modern products.
 
-Now, the creative industry has been classified into 16 subsectors (game application and development, architectural and interior design, visual communication design, product design, fashion, film, animation video, photography, craft, culinary, music, publishing, advertising, performing arts, fine arts, television and radio) where they have their respective challenges. The 16 subsectors have a distinctive character and it has an impact on their development. One key factor for developing a creative economy is how a city is treated as a cultural and artistic center (Howkins 2009). Creative city is defined as a city built by creativity as a way of life in three main aspects: the economy (creative economy), social (creative society), and government (creative policy).
+Currently, the creative industry has been categorized into 16 subsectors, including game application and development, architectural and interior design, visual communication design, product design, fashion, film, animation video, photography, craft, culinary, music, publishing, advertising, performing arts, fine arts, television, and radio, each with its unique set of challenges. These subsectors exhibit distinctive characteristics that influence their development, and one key factor in fostering a thriving creative economy is how a city is positioned as a cultural and artistic hub.
 
-Each province in Indonesia has the potency for the development of creative industries which vary each others. This can be seen from the creative industries in certain subsectors that dominate a whole of province. So it is necessary to do an in-depth analysis of the distribution characteristics of the creative industries subsector for the provinces in Indonesia. The analysis that can be used is the correspondence analysis. It is visually similar to the biplot analysis, but is used for categorical data in the form of contingency tables. This analysis can provide an ease of understanding through the presentation of graphics that are more interesting, more informative, more communicative, and artistic.
+In Indonesia, each province possesses its own potential for the development of creative industries, which vary from one another. This can be observed through the dominance of certain subsectors of the creative industry in specific provinces. Hence, conducting an in-depth analysis of the distribution characteristics of creative industry subsectors across Indonesian provinces becomes essential. Correspondence analysis, a visual approach similar to biplot analysis but tailored for categorical data in contingency tables, can be employed for this analysis. It provides visually appealing, informative, communicative, and artistic graphics that facilitate a better understanding of the data.
 
 ### Objectives
 The objectives of the study are: (1) To identify the relationships between variables in the creative industry subsector in Indonesia, such as game application and development, architecture and interior design, visual communication design, fashion, etc; (2) To identify the relative position between provinces in order to see similarities between them in Indonesia based on the creative industry subsector; (3) To identify the relationships between creative industry subsector; and (4) To find out a province that has low number of creative industry subsectors in Indonesia in 2016.
 
 ### Benefits
-Benefits of the study are: (1) To get a snapshot of the development of the creative industry in Indonesia in 2016; (2) Acquire the development trend of the creative industries sub-sector in Indonesia in 2016; and (3) To be the one of the government's evaluation materials in developing creative industries in each province in Indonesia.
+The study aims to achieve the following objectives in a professional manner:
+- To identify and examine the relationships between variables within the creative industry subsectors in Indonesia, including game application and development, architectural and interior design, visual communication design, fashion, and others
+- To determine the relative positioning of provinces in order to identify similarities among them in Indonesia based on the creative industry subsectors
+- To explore and analyze the relationships between different creative industry subsectors, elucidating their interdependencies and potential synergies
+- To identify and highlight provinces in Indonesia that exhibit a lower number of creative industry subsectors in the year 2016, providing insights into potential areas for further development and intervention
+
+These objectives reflect the systematic and rigorous approach of the study towards understanding the relationships and dynamics within the creative industry subsectors in Indonesia, with the ultimate goal of informing policies and strategies for fostering the growth and development of the creative economy in the country.
 
 ### Scopes
-Scopes of the study is that the data used is a secondary data on the distribution of the creative industry sub-sector in Indonesia in 2016 downloaded from the official website of the Badan Ekonomi Kreatif Indonesia.
+The study is focused on the analysis of secondary data obtained from the official website of the Indonesian Creative Economy Agency. The data pertains to the distribution of creative industry subsectors in Indonesia in the year 2016. The study utilizes this data to conduct an in-depth analysis of the relationships between variables within the creative industry subsectors, as well as to identify the relative position of provinces and their similarities based on the creative industry subsector. The scope of the study is limited to the data available from the official source for the specific year mentioned, and the analysis is conducted using correspondence analysis as the analytical approach.
 
-<p>Head over to my <a href="https://github.com/audhiaprilliant/Multivariate-Analysis/tree/master/Correspondence%20Analysis%20of%20Badan%20Ekonomi%20Kreatif%202016">Github repository</a>!</p>
+<p>For further information, please refer to my <a href="https://github.com/audhiaprilliant/Multivariate-Analysis/tree/master/Correspondence%20Analysis%20of%20Badan%20Ekonomi%20Kreatif%202016">Github repository</a>!</p>
 
 <iframe src="{{site.baseurl}}/assets/docs/Correspondence Analysis.pdf" style="width: 100%; height: 680px;" frameBorder="0"></iframe>
 

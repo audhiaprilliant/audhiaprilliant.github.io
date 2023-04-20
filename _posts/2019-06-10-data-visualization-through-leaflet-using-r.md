@@ -8,9 +8,7 @@ image: assets/images/18-0.jpg
 ---
 
 ### Overview
-Leaflet is an open-source JavaScript library for interactive web maps. Leaflet is designed with *simplicity*, *performance* and *usability* in mind. It's *lightweight*, *simple*, and *flexible*, and is probably the most popular open-source mapping library at the moment. 
-
-Leaflet works efficiently across all major desktop and mobile platforms, can be extended with lots of plugins, has a beautiful, easy to use and well-documented API and a simple, readable source code that is a joy to contribute to. Leaflet is developed by **Vladimir Agafonkin** (currently of *MapBox*) and other contributors.
+The Leaflet library is a popular open-source tool for creating spatial data visualizations. It provides a user-friendly way to create interactive maps that can be easily integrated into various platforms and programming languages. Due to its versatility and compatibility, Leaflet has become one of the most widely used map libraries globally. The library was originally developed by Vladimir Agafonkin in 2011, and since then, it has gained widespread adoption among developers for its ease of use and flexibility in creating interactive maps for web applications.
 
 **Interaction Features**
 - Drag panning with inertia
