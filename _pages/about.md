@@ -67,7 +67,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Follow me on social media</h5>
 
-<p>Thank you for visiting my blog. If you interested in experience and contact details, please consider viewing my account or my CV below</p>
+<p>Thank you for visiting my blog. If you are interested in my experience and contact details, please consider viewing my account or my CV below</p>
 
 <a target="_blank" href="https://www.linkedin.com/in/audhiaprilliant/" class="btn btn-danger">LinkedIn</a> <a target="_blank" href="https://kaggle.com/audhiaprilliant" class="btn btn-warning">Kaggle</a> <a target="_blank" href="https://www.medium.com/@audhiaprilliant/" class="btn btn-primary">Medium</a>
 
