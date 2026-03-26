@@ -1,64 +1,26 @@
-# Site
-name: "Audhi Aprilliant"
-title: "Audhi Aprilliant"
-description: "Data Scientist and Tech Writer"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: 
-google_analytics: 'UA-142301197-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-include: ["_pages"]
-permalink: /:title/
+title: Audhi Aprilliant
+author: audhi
+subtitle: Unlock the power of data
 
-# Authors
-authors:
-  audhi:
-    name: Audhi Aprilliant
-    display_name: Audhi Aprilliant
-    avatar: 'assets/images/avatar.png'
-    gravatar: 1cbf9cbf132902d73193e26ba450cbd0
-    email: audhiaprilliant@gmail.com
-    web: https://audhiaprilliant.github.io/
-    twitter: https://twitter.com/audhiaprilliant
-    description: "Data Scientist. Tech Writer. Statistics, Data Analytics, and Computer Science Enthusiast"
+url: "https://audhiaprilliant.github.io/"
+baseurl: ""
 
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-    
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
-paginate: 6
-paginate_path: /page:num/
-    
-# Other
-markdown: kramdown
+footer_only_homepage: true
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "© 2026 Audhi Aprilliant powered by Jekyll"
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
+profile-picture: assets/images/avatar.png
+favicon_location: assets/images/favicon.ico
 
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
 
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
-
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+navbar:
+ - name: "About"
+   link: ""
+ - name: "Blog"
+   link: "blog/"
+ - name: "Reading"
+   link: "books"

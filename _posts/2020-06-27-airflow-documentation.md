@@ -1,62 +1,60 @@
 ---
 layout: post
-title:  "Apache Airflow as Workflow Management System"
+title:  "Intro to Apache Airflow"
+subtitle: Pipelines made simple with Airflow
 author: audhi
-categories: [ airflow, python ]
-tags: [programming]
-image: assets/images/10-0.jpg
+categories: [ article ]
+tags: [ programming ]
 ---
+Airflow is a platform to create, schedule, and monitor workflows. You can use Airflow to design workflows as Directed Acyclic Graphs (DAGs) of tasks. The Airflow scheduler runs your tasks on many workers and follows the order you set. Airflow has useful tools in the command line and a user interface to help you see pipelines, monitor progress, and fix problems.
 
-### Overview
-Airflow is a platform to programmatically author, schedule and monitor workflows. Use Airflow to author workflows as Directed Acyclic Graphs (DAGs) of tasks. The Airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.
-
-When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative.
+When workflows are written as code, they are easier to maintain, test, version, and share with others.
 
 ### Principles
-- **Dynamic**: Airflow pipelines are configuration as code (Python), allowing for dynamic pipeline generation. This allows for writing code that instantiates pipelines dynamically.
-- **Extensible**: Easily define your own operators, executors and extend the library so that it fits the level of abstraction that suits your environment.
-- **Elegant**: Airflow pipelines are lean and explicit. Parameterizing your scripts is built into the core of Airflow using the powerful Jinja templating engine.
-- **Scalable**: Airflow has a modular architecture and uses a message queue to orchestrate an arbitrary number of workers. Airflow is ready to scale to infinity.
+- **Dynamic**: Airflow pipelines are written in Python code. You can create pipelines automatically with code.
+- **Extensible**: You can create your own operators, executors, and extend Airflow to match your needs.
+- **Clear**: Airflow pipelines are simple and easy to understand. You can add parameters using the Jinja template engine.
+- **Scalable**: Airflow can work with many workers and grow as your system grows.
 
-### Beyond the Horizon
-Airflow is not a data streaming solution. Tasks do not move data from one to the other (though tasks can exchange metadata!). Airflow is not in the Spark Streaming or Storm space, it is more comparable to Oozie or Azkaban.
+### Important notes
+Airflow is not for streaming data. Tasks do not move data between each other (they can only exchange metadata). Airflow is more like Oozie or Azkaban than Spark Streaming or Storm.
 
-Workflows are expected to be mostly static or slowly changing. You can think of the structure of the tasks in your workflow as slightly more dynamic than a database structure would be. Airflow workflows are expected to look similar from a run to the next, this allows for clarity around unit of work and continuity.
+Workflows are usually static or change slowly. The task structure should look similar from one run to another. This makes it easy to understand and manage.
 
 ### Installation
-#### Getting Airflow
-The easiest way to install the latest stable version of Airflow is with pip:
+#### Installing Airflow
+The easiest way to install Airflow is with pip:
 ```bash
 pip install apache-airflow
 ```
-You can also install Airflow with support for extra features like `gcp` or `postgres`:
+You can also add extra features, like gcp or postgres:
 ```bash
 pip install apache-airflow[gcp,postgres]
 ```
 
-#### Initiating Airflow Database
-Airflow requires a database to be initiated before you can run tasks. If you’re just experimenting and learning Airflow, you can stick with the default SQLite option. If you don’t want to use SQLite, then take a look at Initializing a Database Backend to setup a different database.
+#### Initialize the database
+Airflow needs a database before running tasks. If you are just learning, use the default SQLite. For other databases, see Airflow documentation.
 
-After configuration, you’ll need to initialize the database before you can run tasks:
+After setup, initialize the database:
 ```bash
 airflow initdb
 ```
 
-### It’s a DAG Definition File
-One thing to wrap your head around (it may not be very intuitive for everyone at first) is that this Airflow Python script is really just a configuration file specifying the DAG’s structure as code. The actual tasks defined here will run in a different context from the context of this script. Different tasks run on different workers at different points in time, which means that this script cannot be used to cross communicate between tasks. Note that for this purpose we have a more advanced feature called `XCom`.
+### DAG definition file
+In Airflow, a Python script defines a DAG. It does not run tasks directly. Tasks run on different workers at different times.
 
-People sometimes think of the DAG definition file as a place where they can do some actual data processing - that is not the case at all! The script’s purpose is to define a DAG object. It needs to evaluate quickly (seconds, not minutes) since the scheduler will execute it periodically to reflect the changes if any.
+The DAG file should run quickly (seconds), because the scheduler runs it often. You can use XCom to share data between tasks.
 
-In Airflow all workflows are DAGs. A Dag consists of operators. An operator defines an individual task that needs to be performed. There are different types of operators available( As given on Airflow Website):
-- `BashOperator` - executes a bash command
-- `PythonOperator` - calls an arbitrary Python function
-- `EmailOperator` - sends an email
-- `SimpleHttpOperator` - sends an HTTP request
-- `MySqlOperator`, `SqliteOperator`, `PostgresOperator`, `MsSqlOperator`, `OracleOperator`, `JdbcOperator`, etc. - executes a SQL command
-- `Sensor` - waits for a certain time, file, database row, S3 key, etc
+Airflow tasks are created with operators. Some common operators:
+- `BashOperator` – run a bash command
+- `PythonOperator` – run a Python function
+- `EmailOperator` – send an email
+- `SimpleHttpOperator` – send an HTTP request
+- `MySqlOperator`, `PostgresOperator`, `SqliteOperator`, etc. – run SQL commands
+- `Sensor` – wait for a file, database row, S3 key, or time
 
-### How to Run Airflow and Scheduler
-It's pretty easy to run the Apache Airflow and Scheduler. First, open your terminal and follow below commands!
+### Running Airflow
+To run Airflow and the scheduler:
 ```bash
 # airflow needs a home, ~/airflow is the default,
 # but you can lay foundation somewhere else if you prefer
@@ -74,9 +72,6 @@ airflow scheduler
 
 # visit localhost:8080 in the browser and enable the example dag in the home page
 ```
-Upon running these commands, Airflow will create the `$AIRFLOW_HOME` folder and lay an "airflow.cfg" file with defaults that get you going fast. You can inspect the file either in `$AIRFLOW_HOME/airflow.cfg`, or through the UI in the `Admin->Configuration` menu. The PID file for the webserver will be stored in `$AIRFLOW_HOME/airflow-webserver.pid` or in `/run/airflow/webserver.pid` if started by systemd.
+Airflow will create the `$AIRFLOW_HOME` folder and lay an "airflow.cfg" file with defaults that get you going fast. You can inspect the file either in `$AIRFLOW_HOME/airflow.cfg`, or through the UI in the `Admin->Configuration` menu. The PID file for the webserver will be stored in `$AIRFLOW_HOME/airflow-webserver.pid` or in `/run/airflow/webserver.pid` if started by systemd.
 
 For the next post, I will do explain how could I define my pipeline for Covid-19 data using web scraping over Kompas news. Please stay tune!
-
-### Sources
-<a target="_blank" href="https://airflow.readthedocs.io/en/stable/i" class="btn btn-danger">Airflow Documentation</a> <a target="_blank" href="https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b#:~:text=Airflow%20is%20a%20platform%20to,while%20following%20the%20specified%20dependencies." class="btn btn-warning">Towards Data Science</a>
