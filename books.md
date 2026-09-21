@@ -36,6 +36,21 @@ If I have more free time, I would like to write book reviews and summaries. For 
 ---
 ### Non-fiction
 <div class="published-entry">
+  <a href="https://www.goodreads.com/book/show/16248196-the-art-of-thinking-clearly" target="_blank" rel="noopener noreferrer" style="color: #c05621; text-decoration: none; font-weight: bold;">The Art of Thinking Clearly</a>
+  <span>by Rolf Dobelli, published 2011.</span>
+</div>
+
+<div class="published-entry">
+  <a href="https://www.goodreads.com/book/show/34890015-factfulness" target="_blank" rel="noopener noreferrer" style="color: #c05621; text-decoration: none; font-weight: bold;">Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think</a>
+  <span>by Hans Rosling, published 2018.</span>
+</div>
+
+<div class="published-entry">
+  <a href="https://www.goodreads.com/en/book/show/28512671-everybody-lies" target="_blank" rel="noopener noreferrer" style="color: #c05621; text-decoration: none; font-weight: bold;">Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are</a>
+  <span>by Seth Stephens-Davidowitz, published 2017.</span>
+</div>
+
+<div class="published-entry">
   <a href="https://www.goodreads.com/book/show/160171.Just_for_Fun" target="_blank" rel="noopener noreferrer" style="color: #c05621; text-decoration: none; font-weight: bold;">Just for Fun: The Story of an Accidental Revolutionary</a>
   <span>by Linus Torvalds and David Diamond, published 2021.</span>
 </div>
